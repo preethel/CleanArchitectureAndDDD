@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xgunMbc8C549KRJaMT7PcB2iGnID9A3bkY+/nMidAp+r5YlDkeJuH5o/uvkrl7wil2aDk2rscu6iHilN6cHBVA==",
+  "success": true,
+  "projectFilePath": "F:\\DateWiseWorkingDirectory\\05-09-2023\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\redwan.it\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

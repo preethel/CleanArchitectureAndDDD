@@ -1,0 +1,17 @@
+F:\DateWiseWorkingDirectory\05-09-2023\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Infrastructure.deps.json
+F:\DateWiseWorkingDirectory\05-09-2023\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Infrastructure.dll
+F:\DateWiseWorkingDirectory\05-09-2023\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Infrastructure.pdb
+F:\DateWiseWorkingDirectory\05-09-2023\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\DateWiseWorkingDirectory\05-09-2023\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+F:\DateWiseWorkingDirectory\05-09-2023\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.AssemblyInfo.cs
+F:\DateWiseWorkingDirectory\05-09-2023\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+F:\DateWiseWorkingDirectory\05-09-2023\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.dll
+F:\DateWiseWorkingDirectory\05-09-2023\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\refint\BuberDinner.Infrastructure.dll
+F:\DateWiseWorkingDirectory\05-09-2023\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.pdb
+F:\DateWiseWorkingDirectory\05-09-2023\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\ref\BuberDinner.Infrastructure.dll
+F:\DateWiseWorkingDirectory\05-09-2023\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Application.dll
+F:\DateWiseWorkingDirectory\05-09-2023\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Domain.dll
+F:\DateWiseWorkingDirectory\05-09-2023\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Application.pdb
+F:\DateWiseWorkingDirectory\05-09-2023\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Domain.pdb
+F:\DateWiseWorkingDirectory\05-09-2023\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+F:\DateWiseWorkingDirectory\05-09-2023\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.csproj.CopyComplete

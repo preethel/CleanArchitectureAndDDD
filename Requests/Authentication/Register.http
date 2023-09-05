@@ -1,0 +1,10 @@
+POST /auth/register HTTP/1.1
+Host: localhost:5133
+Content-Type: application/json
+
+{
+    "FirstName": "Redwan",
+    "LastName": "Azam",
+    "Email": "azam13bh@gmail.com",
+    "Password": "123asd"
+}

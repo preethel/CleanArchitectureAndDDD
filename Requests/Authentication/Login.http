@@ -1,0 +1,10 @@
+
+
+POST /auth/login HTTP/1.1
+Host: localhost:5133
+Content-Type: application/json
+
+{
+    "Email" : "azam13bh@gmail.com",
+    "Password" : "123asd"
+}
